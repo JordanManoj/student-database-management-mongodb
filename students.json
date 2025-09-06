@@ -1,0 +1,114 @@
+[
+  {
+    "Roll": 1,
+    "Name": "Arjun Nair",
+    "Course": "Math",
+    "Marks": 85,
+    "City": "Kochi",
+    "EmailID": "arjun.nair@gmail.com"
+  },
+  {
+    "Roll": 2,
+    "Name": "Anjali Menon",
+    "Course": "Physics",
+    "Marks": 88,
+    "City": "Trivandrum",
+    "EmailID": "anjali.menon@gmail.com"
+  },
+  {
+    "Roll": 3,
+    "Name": "Rakesh Pillai",
+    "Course": "Chemistry",
+    "Marks": 92,
+    "City": "Kozhikode",
+    "EmailID": "rakesh.pillai@gmail.com"
+  },
+  {
+    "Roll": 4,
+    "Name": "Meera Nambiar",
+    "Course": "Math",
+    "Marks": 65,
+    "City": "Thrissur",
+    "EmailID": "meera.nambiar@gmail.com"
+  },
+  {
+    "Roll": 5,
+    "Name": "Gautham Kurup",
+    "Course": "Biology",
+    "Marks": 88,
+    "City": "Alappuzha",
+    "EmailID": "gautham.kurup@gmail.com"
+  },
+  {
+    "Roll": 6,
+    "Name": "Divya Warrier",
+    "Course": "Math",
+    "Marks": 72,
+    "City": "Kollam",
+    "EmailID": "divya.warrier@gmail.com"
+  },
+  {
+    "Roll": 7,
+    "Name": "Vishnu Panicker",
+    "Course": "Physics",
+    "Marks": 105,
+    "City": "Kochi",
+    "EmailID": "vishnu.panicker@gmail.com"
+  },
+  {
+    "Roll": 8,
+    "Name": "Lekshmi Nair",
+    "Course": "Biology",
+    "Marks": 56,
+    "City": "Palakkad",
+    "EmailID": "lekshmi.nair@gmail.com"
+  },
+  {
+    "Roll": 10,
+    "Name": "Arya Krishnan",
+    "Course": "Physics",
+    "Marks": 78,
+    "City": "Kozhikode",
+    "EmailID": "arya.krishnan@gmail.com"
+  },
+  {
+    "Roll": 11,
+    "Name": "Nikhil Ramesh",
+    "Course": "Math",
+    "Marks": 82,
+    "City": "Kannur",
+    "EmailID": "nikhil.ramesh.new@gmail.com"
+  },
+  {
+    "Roll": 12,
+    "Name": "Revathi Menon",
+    "Course": "Biology",
+    "Marks": 45,
+    "City": "Trivandrum",
+    "EmailID": "revathi.menon@gmail.com"
+  },
+  {
+    "Roll": 13,
+    "Name": "Ajay Kumar",
+    "Course": "Chemistry",
+    "Marks": 77,
+    "City": "Thrissur",
+    "EmailID": "ajay.kumar@gmail.com"
+  },
+  {
+    "Roll": 14,
+    "Name": "Sandhya Pillai",
+    "Course": "Math",
+    "Marks": 91,
+    "City": "Alappuzha",
+    "EmailID": "sandhya.pillai@gmail.com"
+  },
+  {
+    "Roll": 15,
+    "Name": "Rohit Nair",
+    "Course": "Physics",
+    "Marks": 49,
+    "City": "Kollam",
+    "EmailID": "rohit.nair@gmail.com"
+  }
+]
