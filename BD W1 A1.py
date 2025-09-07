@@ -73,7 +73,7 @@ for s in students.find({"Roll": 11}):
     print(s)
 
 
-# displaying marks of students enrolled in a specific course(physics)
+# displaying marks of students enrolled in a specific course
 course = "Physics"
 print("\nStudents marks before update:")
 for s in students.find({"Course": course}):
@@ -137,3 +137,4 @@ docs = list(students.find({}, {"_id": 0}))
 with open("students.json", "w", encoding="utf-8") as f:
     json.dump(docs, f, ensure_ascii=False, indent=2)
 print("Exported to students.json")
+
